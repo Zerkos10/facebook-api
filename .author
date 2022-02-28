@@ -1,0 +1,5 @@
+~/efrei/facebook-api ❯❯❯ cat -e .author
+{
+  firstName: "Joaquim",
+  lastName: "HEDREVILLE"
+}
